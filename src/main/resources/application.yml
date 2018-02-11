@@ -1,0 +1,4 @@
+configuration:
+    projectName: Spring Boot with YAML
+server:
+    port: 8180
